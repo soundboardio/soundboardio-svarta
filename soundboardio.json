@@ -1,0 +1,97 @@
+{
+  "name": "Svarta",
+  "shortName": "svarta",
+  "description": "Je mu hodně!",
+  "color": "#e65100",
+  "rootUrl": "sounds/",
+  "author": {
+    "name": "Sám Život",
+    "url": "https://www.youtube.com/watch?v=cVoMkzsQHsk"
+  },
+  "lang": "cs",
+  "version": "1.0.0",
+  "icons": [
+    {
+      "src": "/icons/icon-48.png",
+      "sizes": "48x48",
+      "purpose": "maskable any",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/icons/icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png"
+    }
+  ],
+  "tiles": [
+    {
+      "name": "Dělej",
+      "filename": "delej.mp3"
+    },
+    {
+      "name": "To je debil",
+      "filename": "to-je-debil.mp3"
+    },
+    {
+      "name": "No, tak to jsem neviděl",
+      "filename": "no-tak-to-jsem-nevidel.mp3"
+    },
+    {
+      "name": "Svarta, je ti něco?",
+      "filename": "svarta-je-ti-neco.mp3"
+    },
+    {
+      "name": "No to mu je teda",
+      "filename": "no-to-mu-je-teda.mp3"
+    },
+    {
+      "name": "Hovno hovno",
+      "filename": "hovno-hovno.mp3"
+    },
+    {
+      "name": "Neni mu nic, je mu hodně",
+      "filename": "neni-mu-nic-je-mu-hodne.mp3"
+    },
+    {
+      "name": "Hovno",
+      "filename": "hovno.mp3"
+    },
+    {
+      "name": "Vejška jako prase",
+      "filename": "vejska-jako-prase.mp3"
+    },
+    {
+      "name": "Ty čůráku, ten má dost",
+      "filename": "ty-curaku-ten-ma-dost.mp3"
+    },
+    {
+      "name": "Svarta",
+      "filename": "svarta.mp3"
+    },
+    {
+      "name": "Nemůže pobrat dech, ty kryple",
+      "filename": "nemuze-pobrat-dech-ty-kryple.mp3"
+    },
+    {
+      "name": "Dělej, dolu",
+      "filename": "delej-dolu.mp3"
+    },
+    {
+      "name": "Ty debile, ten ma dost jak svině",
+      "filename": "ty-debile-ten-ma-dost-jak-svine.mp3"
+    },
+    {
+      "name": "Rozlámanej jak svině",
+      "filename": "rozlamanej-jak-svine.mp3"
+    },
+    {
+      "name": "Jdem",
+      "filename": "jdem.mp3"
+    }
+  ]
+}
