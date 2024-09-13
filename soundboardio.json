@@ -2,6 +2,7 @@
   "name": "Svarta",
   "shortName": "svarta",
   "description": "Je mu hodně!",
+  "story": "V roce 2008 se Svarta z Hořic pokoušel neúspěšně skočit z garáže na strom. Hlášky jeho přátel, jako „Svarta, je ti něco?“ a „To jumpoval, voe“, se rychle staly legendární a video získalo přes milion zhlédnutí. Tento soundboard tedy slouží jako pocta největšímu jumperovi v dějinách našeho lidstva. Skončil rozlámanej jako svině a nemohl pobrat dech. Byla to totiž vejška jako prase. To ještě nikdo nikdy neviděl. Svartův skok byl sice malým skokem pro lidstvo, ale zato obrovským skokem pro Hořice. Hořice jsou tak nyní známé nejen pro výrobu trubiček, ale i pro tohoto nešťastníka.",
   "color": "#943100",
   "rootUrl": "sounds/",
   "author": {
@@ -9,7 +10,7 @@
     "url": "https://www.youtube.com/watch?v=cVoMkzsQHsk"
   },
   "lang": "cs",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "icons": [
     {
       "src": "/icons/icon-48.png",
@@ -92,6 +93,28 @@
     {
       "name": "Jdem",
       "filename": "jdem.mp3"
+    }
+  ],
+  "references": [
+    {
+      "name": "Originální video (2008)",
+      "url": "https://www.youtube.com/watch?v=cVoMkzsQHsk"
+    },
+    {
+      "name": "Vyjádření Svarty po 12 letech",
+      "url": "https://www.youtube.com/watch?v=KXlSQ01vPUs"
+    },
+    {
+      "name": "Official Svarta Youtube channel",
+      "url": "https://www.youtube.com/@svarta1"
+    },
+    {
+      "name": "Svarta po 12 letech vysvětlil, proč to v Hořích jumpoval",
+      "url": "https://hradecka.drbna.cz/zpravy/8016-je-mu-hodne-svarta-po-12-letech-vysvetlil-proc-to-v-horich-jumpoval.html"
+    },
+    {
+      "name": "Svarta jump po 13 letech",
+      "url": "https://www.youtube.com/watch?v=gfZNGuyq0Ew"
     }
   ]
 }
