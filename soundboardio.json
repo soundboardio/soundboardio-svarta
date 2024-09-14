@@ -2,7 +2,14 @@
   "name": "Svarta Jump",
   "shortName": "svarta",
   "description": "Je mu hodně!",
-  "story": "V roce 2008 se Svarta z Hořic pokoušel neúspěšně skočit z garáže na strom. Hlášky jeho přátel, jako „Svarta, je ti něco?“ a „To jumpoval, voe“, se rychle staly legendární a video získalo přes milion zhlédnutí. Tento soundboard tedy slouží jako pocta největšímu jumperovi v dějinách našeho lidstva. Skončil rozlámanej jako svině a nemohl pobrat dech. Byla to totiž vejška jako prase. To ještě nikdo nikdy neviděl. Svartův skok byl sice malým skokem pro lidstvo, ale zato obrovským skokem pro Hořice. Hořice jsou tak nyní známé nejen pro výrobu trubiček, ale i pro tohoto nešťastníka.",
+  "story": [
+    "V roce 2008 se Svarta z Hořic pokoušel neúspěšně skočit z garáže na strom.",
+    "Hlášky jeho přátel, jako „Svarta, je ti něco?“ a „To jumpoval, voe“, se rychle staly legendární a video získalo přes milion zhlédnutí.",
+    "Tento soundboard tedy slouží jako pocta největšímu jumperovi v dějinách našeho lidstva.",
+    "Skončil rozlámanej jako svině a nemohl pobrat dech. Byla to totiž vejška jako prase. To ještě nikdo nikdy neviděl.",
+    "Svartův skok byl sice malým skokem pro lidstvo, ale zato obrovským skokem pro Hořice.",
+    "Hořice jsou tak nyní známé nejen pro výrobu trubiček, ale i pro tohoto nešťastníka."
+  ],
   "color": "#943100",
   "rootUrl": "sounds/",
   "author": {
