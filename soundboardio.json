@@ -46,67 +46,83 @@
   "tiles": [
     {
       "name": "Dělej",
-      "filename": "delej.mp3"
+      "filename": "delej.mp3",
+      "transcript": "Teď, dělej dělej! Dělej! Dělej! Dělej!"
     },
     {
       "name": "To je debil",
-      "filename": "to-je-debil.mp3"
+      "filename": "to-je-debil.mp3",
+      "transcript": "To je debil"
     },
     {
       "name": "No, tak to jsem neviděl",
-      "filename": "no-tak-to-jsem-nevidel.mp3"
+      "filename": "no-tak-to-jsem-nevidel.mp3",
+      "transcript": "no tak to jsem neviděl"
     },
     {
       "name": "Svarta, je ti něco?",
-      "filename": "svarta-je-ti-neco.mp3"
+      "filename": "svarta-je-ti-neco.mp3",
+      "transcript": "Svarta, je ti něco?"
     },
     {
       "name": "No to mu je teda",
-      "filename": "no-to-mu-je-teda.mp3"
+      "filename": "no-to-mu-je-teda.mp3",
+      "transcript": "No to mu je teda!"
     },
     {
       "name": "Hovno hovno",
-      "filename": "hovno-hovno.mp3"
+      "filename": "hovno-hovno.mp3",
+      "transcript": "Hovno. Hovno."
     },
     {
       "name": "Neni mu nic, je mu hodně",
-      "filename": "neni-mu-nic-je-mu-hodne.mp3"
+      "filename": "neni-mu-nic-je-mu-hodne.mp3",
+      "transcript": "Je mu hodně!"
     },
     {
       "name": "Hovno",
-      "filename": "hovno.mp3"
+      "filename": "hovno.mp3",
+      "transcript": "Hovno"
     },
     {
       "name": "Vejška jako prase",
-      "filename": "vejska-jako-prase.mp3"
+      "filename": "vejska-jako-prase.mp3",
+      "transcript": "Hochu, to je vejška jako prase vole. To džampoval, vole"
     },
     {
       "name": "Ty čůráku, ten má dost",
-      "filename": "ty-curaku-ten-ma-dost.mp3"
+      "filename": "ty-curaku-ten-ma-dost.mp3",
+      "transcript": "Ty čůráku, ten má dost"
     },
     {
       "name": "Svarta",
-      "filename": "svarta.mp3"
+      "filename": "svarta.mp3",
+      "transcript": "Svarta"
     },
     {
       "name": "Nemůže pobrat dech, ty kriple",
-      "filename": "nemuze-pobrat-dech-ty-kryple.mp3"
+      "filename": "nemuze-pobrat-dech-ty-kryple.mp3",
+      "transcript": "Nemůže pobrat dech, ty kriple"
     },
     {
       "name": "Dělej, dolu",
-      "filename": "delej-dolu.mp3"
+      "filename": "delej-dolu.mp3",
+      "transcript": "Dělej, dolu"
     },
     {
       "name": "Ty debile, ten má dost jak svině",
-      "filename": "ty-debile-ten-ma-dost-jak-svine.mp3"
+      "filename": "ty-debile-ten-ma-dost-jak-svine.mp3",
+      "transcript": "Ty debile, ten má dost jak svině"
     },
     {
       "name": "Rozlámanej jak svině",
-      "filename": "rozlamanej-jak-svine.mp3"
+      "filename": "rozlamanej-jak-svine.mp3",
+      "transcript": "ten bude rozlámanej jako svině"
     },
     {
       "name": "Jdem",
-      "filename": "jdem.mp3"
+      "filename": "jdem.mp3",
+      "transcript": "Tak počkej tak jdem tam vole"
     }
   ],
   "references": [
