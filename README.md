@@ -8,7 +8,7 @@
 
 > Plugin for [SoundBoardio.com](https://soundboardio.com), a free GitHub-powered soundboard app.
 
-**Je mu hodně!** 16 Czech sound quotes, playable in the browser and installable on your phone as an app.
+16 Czech sound quotes, playable in the browser and installable on your phone as an app.
 
 **▶ [Open the soundboard](https://soundboardio.com/app/svarta/?utm_source=github&utm_medium=readme&utm_campaign=svarta)**
 
@@ -31,4 +31,4 @@ Guide, generator and validator: **[soundboardio.com/create](https://soundboardio
 
 The code and the manifest are [MIT licensed](LICENSE). The sounds belong to the authors of the original recording; this board is a fan tribute. Is something rotten? Open an issue or [contact us](https://soundboardio.com/about/).
 
-SoundBoardio is made by [AquaSoup](https://aquasoup.com) and is free. If it made you smile, [buy us a coffee](https://github.com/sponsors/bartholomej) ☕
+SoundBoardio is made by [AquaSoup](https://aquasoup.com) and is free. If it made you smile, [buy us a coffee](https://soundboardio.com/donate/?utm_source=github&utm_medium=readme&utm_campaign=svarta) ☕
